@@ -15,7 +15,7 @@
 
 Este repositorio aloja las prácticas y ejercicios correspondientes al **Capítulo 2** de la materia de **Programación Web**, recopilando estructuras, menús de navegación y ejercicios desarrollados en **HTML**. El sitio se encuentra alojado y desplegado en la nube a través de **Microsoft Azure App Service** sobre un entorno Linux.
 
-🔗 **Sitio en vivo:** [Ver Proyecto en Azure](https://tu-link-de-azure.azurewebsites.net)
+🔗 **Sitio en vivo:** [Ver Proyecto en Azure](https://practica-cap2-guadalupe-b5b0cpfvega7h8gu.eastus2-01.azurewebsites.net/?classId=ef2d8ba3-0331-4371-a7ab-0b8214f6f111&assignmentId=598a93c3-4516-4195-a5fe-70183c023bd9&submissionId=23785a2d-2ec7-4191-14ee-5b81991290c5)
 
 ---
 
